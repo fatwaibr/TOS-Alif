@@ -9,7 +9,8 @@ else
         echo "Nama harus diisi"
 fi
  
-if [ $NAMA = "FATWA" ]
+if [ $NAMA = "Ayiigemu" ]
+
 then
         echo "Nama Sudah Pernah diinputkan"
 else
